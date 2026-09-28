@@ -1,1 +1,3 @@
-# isdoggiestreamingtonight
+# Is Doggie streaming tonight?
+
+Possibly.
